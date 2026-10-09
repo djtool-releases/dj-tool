@@ -2,6 +2,7 @@
 
 Grab a track from a file or a YouTube link, tag it with BPM and key, and split it into stems
 (vocals, drums, bass, other) that line up sample-for-sample for group-warping in Ableton.
+You can also keep the source video as an MP4 alongside them.
 
 **This repository only hosts the builds.** Head to the **[Releases](../../releases)** page and pick
 the download for your Mac — Apple menu → *About This Mac* → *Chip*:
